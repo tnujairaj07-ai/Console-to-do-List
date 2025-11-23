@@ -9,8 +9,8 @@ This project is a Console-Based To-Do List application written in Python for my 
     - Initialized local Git repository and pushed to GitHub.
 
     **Screenshots**
-    - ![Creating file](screenshots_files-initialization.png)
-    - ![Creating file](screenshots_files-initialization(1).png)
+    - ![Creating file](screenshots/files-initialization.png)
+    - ![Creating file](screenshots/files-initialization(1).png)
 
 2. **Core Functionality**
     - Developed Python code for the menu-driven To-Do List application.

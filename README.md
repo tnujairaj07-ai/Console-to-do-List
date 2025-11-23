@@ -15,22 +15,22 @@ A command-line To-Do List app written in Python for CSFCP Assignment.
 
 **Main Menu:**
 
-![Main Menu](screenshots_menu.png)
+![Main Menu](screenshots/menu.png)
 
 **Adding a Task:**
 
-![Adding a task](screenshots_add-task.png)
+![Adding a task](screenshots/add-task.png)
 
 **Viewing Tasks:**
 
-![Viewing tasks](screenshots_view-tasks.png)
+![Viewing tasks](screenshots/view-tasks.png)
 
 **Removing a Task:**
 
-![Removing a task](screenshots_remove-task.png)
+![Removing a task](screenshots/remove-task.png)
 
 **Exit from the To-Do list Menu**
-![Exit from the menu](screenshots_exit.png)
+![Exit from the menu](screenshots/exit.png)
 
 ## Author
 Tanuj
